@@ -367,7 +367,7 @@
          "id": 4,
          "title": "Mens Casual Slim Fit",
          "price": 15.99,
-         "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+         "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be ",
          "category": "men's clothing",
          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
          "rating": {
@@ -559,13 +559,509 @@
          "id": 20,
          "title": "DANVOUY Womens T Shirt Casual Cotton Short",
          "price": 12.99,
-         "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
          "category": "women's clothing",
          "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
          "rating": {
            "rate": 3.6,
            "count": 145
          }
-       }],
+       },
+
+      {
+        "id":21,
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/MG_600x.png?v=1657775492",
+        "title": "boAt Airdopes 131 PRO",
+        "description":"5.0 | 2",
+        "price": "1299",
+        "category":"electronics"
+    },
+    {
+      "id":22,
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/cream_600x.png?v=1642405569",
+        "title": "boAt Airdopes 131 - Wireless Earbuds",
+        "description":"4.8 | 1116",
+        "price": "1299",
+        "category":"electronics"
+    },
+    {
+        "id":23,
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_blue_759e7ad4-18af-4407-9e8a-91c0058b1a74_300x.png?v=1648108782",
+        "title": "boAt Watch Wave Lite",
+        "description":"4.8 | 31",
+        "price": "1799",
+        "category":"electronics"
+
+    },
+    {
+        "id":24,
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/white_300x.png?v=1657869596",
+        "title": "boAt Airdopes 141",
+         "description":"4.8 | 411",
+        "price": "1799",
+        "category":"electronics"
+
+    },
+    {
+      "id":25,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/553af994-244a-4b81-9d9e-9967a1b966b3_300x.png?v=1656750183",
+      "title": "boAt BassHeads 100",
+       "description": "4.8 | 407 reviews",
+      "price": "₹379",
+    "category":"electronics"
+  },
+  {
+    "id":26,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_15634ca0-9f81-4d11-b891-9a1496f709b1_300x.png?v=1641801688",
+      "title": "boAt Rockerz 330",
+       "description": "4.8 | 258 reviews",
+      "price": "₹1499",
+    "category":"electronics"
+  },
+  {
+      "id":27,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/6b237ddc-f894-4dfd-a474-2435f93e6611_300x.png?v=1625046507",
+      "title": "boAt Rockerz 255",
+       "description": "4.8 | 224 reviews",
+      "price": "₹999",
+    "category":"electronics"
+  },
+  {
+      "id":28,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/f87f98c3-9b52-4f7f-9ebe-dd10ee9517d9_300x.png?v=1633152280",
+      "title": "boAt BassHeads 102",
+       "description": "4.8 | 154 reviews",
+      "price": "₹399",
+       "category":"electronics"
+  },
+  {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17048614/2022/2/4/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg",
+  "id":29,
+  "title":"Women Kurta Set With Dupatta",
+  "price":"1427",
+   "category":"women's clothing"
+},
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13791594/2022/2/14/5ea707f4-8491-4d1c-b520-86a1cff4c86e1644841891629-Anouk-Women-Yellow--White-Printed-Kurta-with-Palazzos-706164-1.jpg",
+  "id":30,
+  "title":"Printed Kurta with Palazzos",
+  "price":"799",
+   "category":"women's clothing"
+  },{
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14709966/2021/7/10/d2407657-1f04-4d13-9f52-9e134050489b1625905793495-Nayo-Women-Red-Ethnic-Motifs-Printed-Empire-Pure-Cotton-Kurt-1.jpg",
+  "id":31,
+  "title":"Women Kurta With Trouser",
+  "price":"1368",
+   "category":"women's clothing"
+  },{
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18111724/2022/5/2/60f91da0-0770-4762-98e9-844ddc5b2de01651473553606IkDaiyaWomenPinkFloralYokeDesignEmpireKurtiwithPatialaWithDu1.jpg",
+  "id":32,
+  "title":"Women Yoke Design Kurta  ",
+  "price":"1398",
+   "category":"women's clothing"
+  },{
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11056154/2019/12/5/30b0017d-7e72-4d40-9633-ef78d01719741575541717470-AHIKA-Women-Black--Green-Printed-Straight-Kurta-990157554171-1.jpg",
+  "id":33,
+  "title":"Printed Straight Kurta",
+  "price":"513",
+   "category":"women's clothing"
+  },{
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13764318/2021/4/7/c6a16eb7-833d-4df2-8e0e-cb694a8a83e51617792817180-Varanga-Peach-Bandhani-Printed-Embroidered-Kurta-69516177928-1.jpg",
+  "id":34,
+  "title":"Women Printed Cotton Kurta",
+  "price":"755",
+   "category":"women's clothing"
+},
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13169116/2021/9/1/f4743cd0-265e-4f57-8273-a5abb52501751630500433313-Libas-Women-Green-Pure-Cotton-Kurta-with-Palazzos--With-Dupa-1.jpg",
+  "id":35,
+  "title":"Women Printed Kurti",
+  "price":"799",
+   "category":"women's clothing"
+},
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2322979/2018/2/13/11518506064968-Anouk-Women-Peach-Coloured-Printed-Straight-Kurta-6851518506064751-1.jpg",
+  "id":36,
+  "title":"Printed Straight Kurta",
+  "price":"629",
+   "category":"women's clothing"
+},
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15268846/2021/8/26/09f1795f-1da7-4e65-8711-9e0dcdf70d0d1629972004472VarangaBlueAndMaroonAbstractPrintedKurtaWithGotaWorkOnYokeAn1.jpg",
+  "id":37,
+  "title":"Women Ethic Motifs",
+  "price":"659",
+   "category":"women's clothing"
+},
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13902678/2021/4/6/a5dfcb9a-af2a-4ed8-98bf-e10a8b3b5a891617704827106-Anouk-Women-Kurta-Sets-911617704825967-1.jpg",
+  "id":38,
+  "title":"Yoke Design Kurta",
+  "price":"979",
+   "category":"women's clothing"
+},
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13962282/2021/7/5/26f8c8a9-e900-4510-9fb0-ac42f029442c1625483017312-Indo-Era-Beigh-Embroidered-Straight-Kurta-Palazzo-With-Dupat-1.jpg",
+  "id":39,
+  "title":"Zari Embroidered Kurta",
+  "price":"1539",
+   "category":"women's clothing"
+},
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13169116/2021/9/1/f4743cd0-265e-4f57-8273-a5abb52501751630500433313-Libas-Women-Green-Pure-Cotton-Kurta-with-Palazzos--With-Dupa-1.jpg",
+  "id":40,
+  "title":"Chanderi Yoke Design Kurta ",
+  "price":"1619",
+   "category":"women's clothing"
+},
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13791608/2022/2/14/09516263-6380-4df1-a7f6-647fc2ff1a511644842630055-Anouk-Women-Pink-Embroidered-Kurta-with-Palazzos-77516448426-1.jpg",
+  "id":41,
+  "title":" Embroidered Kurta with Palaza",
+  "price":"999",
+   "category":"women's clothing"
+},
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16331376/2021/12/2/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg",
+  "id":42,
+  "title":"Women Embroidered Kurta",
+  "price":"1469",
+   "category":"women's clothing"
+},
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17048604/2022/2/4/11b842c5-d9d4-4fee-baa2-0972e3a673641643970773675KhushalKWomenGreenEthnicMotifsPrintedEmpireGottaPattiPureCot7.jpg",
+  "id":43,
+  "title":" Women Pure Cotton Kurta",
+  "price":"1483",
+   "category":"women's clothing"
+},
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16836356/2022/3/24/f41645f5-e62e-452c-ade0-f132d5de30e51648119245986-KALINI-Women-Blue-Yoke-Design-Kurta-with-Palazzos--With-Dupa-1.jpg",
+  "id":44,
+  "title":"Women Yoke Design Kurta",
+  "price":"887",
+   "category":"women's clothing"
+},
+
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13791594/2022/2/14/5ea707f4-8491-4d1c-b520-86a1cff4c86e1644841891629-Anouk-Women-Yellow--White-Printed-Kurta-with-Palazzos-706164-1.jpg",
+  "id":45, 
+   "title":"Women Cotton Kurta Set",
+  "price":"2849",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17048614/2022/2/4/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg", 
+  "id":46,
+  "title":"Women Dot Kurti",
+  "price":"2849",
+   "category":"women's clothing"
+},
+
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10942370/2022/4/19/ec7101dc-431b-47d2-9c86-d53fc4fda3681650365990558AnubhuteeWomenNavyBluePaisleyFloralEmbroideryKurtaSet1.jpg",
+  "id":47,
+  "title":"Ethnic Embroidered Kurta Set",
+  "price":"869",
+   "category":"women's clothing"
+},
+
+ { 
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16589834/2022/2/10/fb73f692-7a4b-4641-8609-6bcc48ebdf891644495002266-Women-Peach-Printed-with-yoke-neck-Pleated-Kaftan-Kurta-with-1.jpg",
+  "id":48,
+  "title":"Pink Silk Blend Kaftan Kurta Set",
+  "price":"1294",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18111726/2022/5/2/5a1c6f5d-8532-42e5-9f23-e5222fb095691651475693731IkDaiyaWomenTealEthnicMotifsYokeDesignEmpireKurtiwithPalazzo1.jpg",
+  "id":49,
+  "title":"Women Yoke Design Kurti",
+  "price":"1398",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15241816/2021/8/24/d57adb8b-e792-477a-8801-6ea570cd88ef1629800170287VarangaWomenYellowFloralPrintedKeyholeNeckThreadWorkKurta1.jpg",
+  "id":50,
+  "title":"Women Floral Printed Kurta",
+  "price":"671",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18225648/2022/5/11/831a7a92-e564-435e-b80e-adc63a28f88a1652258930326maxWomenMulticolouredFloralAngrakhaPureCottonKurtiwithTrouse1.jpg",
+  "id":51,
+  "title":"Women Kurti With Trouse",
+  "price":"799",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/18452064/2022/5/27/33403cbe-a388-4b51-a979-1c9a034a787d1653648871107SapGreenRayonEmbroideredStraightFitKurta1.jpg",
+  "id":52,
+  "title":"Women Floral Embroidered Kurta",
+  "price":"1348",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/6/13/1ce40c79-d376-44bf-bc6e-37fd418dc0d31560423441364-1.jpg",
+  "id":53,
+  "title":"Women Printed Kurta",
+  "price":"586",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17241820/2022/2/22/6826eb82-a889-4550-9729-7c638a6d82241645516346563KALINIWomenWhiteDyedFlaredSleevesQuirkyAnarkaliKurta1.jpg",
+  "id":54,
+  "title":"Women Dyed Anarkali Kurta",
+  "price":"599",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13169116/2021/9/1/f4743cd0-265e-4f57-8273-a5abb52501751630500433313-Libas-Women-Green-Pure-Cotton-Kurta-with-Palazzos--With-Dupa-1.jpg",
+  "id":55,
+  "title":"Women Kurta With Plazo",
+  "price":"1199",
+   "category":"women's clothing"
+},
+
+ {
+   "image":"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17197472/2022/2/18/5934fceb-05cf-40c2-87e8-3fe9fd474c1e1645166780554heemaraWomenPurpleFloralEmbroideredThreadWorkSilkChiffonKurt1.jpg",
+  "id":56,
+  "title":"Women Embroidered Kurta Sets",
+  "price":"1055",
+   "category":"women's clothing"
+},
+{  "id":57,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":400,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/91fd1b52-88dd-4569-9e31-5710bd255d7b1653643909628-QL_Bath_BodyCare.jpg"},
+{  "id":58,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":500,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/30f377e9-eb8a-44c3-8dbd-295b077642bf1653643909673-QL_GroomingMust-Haves.jpg"},
+{  "id":59,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":300,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/30b10d70-f8f4-41ba-a51a-a3da2fb690921653643909666-QL_Fragrances_Deodorants.jpg"},
+{  "id":60,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":490,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/0589367a-23f3-4f10-94b7-b7ec3c757ee01653643909801-QL_T-Shirts.jpg"},
+{  "id":61,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":399,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/be2c3846-b98a-4b37-b12b-60a0ddf5551b1653643909738-QL_Shirts.jpg"},
+{  "id":62,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":499,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/e1bef9bd-12d8-45a8-8880-d3ac59e317401653643909614-QL_-Innerwear.jpg"},
+{  "id":63,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":598,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/020297da-a13c-4262-b71d-addd60ef2bfc1653643909704-QL_Loungewear.jpg"},
+{  "id":64,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":999,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/9755584f-52cb-49f8-8910-3225459ad79b1653643909793-QL_TrousersMENs.jpg"},
+{  "id":65,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":400,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/e6ca1a65-1edf-410d-9fb8-5b582b1f9e9c1653643909697-QL_Kurtas_Sets.jpg"},
+{  "id":66,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":799,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/7fe15202-bc12-4c0f-aec0-54de3f50197f1653643909724-QL_PlusSizeStyles.jpg"},
+{  "id":67,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":899,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/553c298c-d770-4cf4-af86-9e5319fe045b1653643909691-QL_JeansMens.jpg"},
+{  "id":68,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":1999,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/21f624ef-63d8-45a2-acb1-774bb90363bd1653643909710-QL_NehruJackets_Sherwanis.jpg"},
+{  "id":69,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":2190,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/2c0f7d6d-e346-43ef-a048-35854bf6c4211653643909764-QL_Suits_blazers_.jpg"},
+{  "id":70,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":2990,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/3f6815ba-d56a-4ff8-b075-734e8ded21a31653643909653-QL_Flip-Flops.jpg"},
+{  "id":71,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":900,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/2c0f7d6d-e346-43ef-a048-35854bf6c4211653643909764-QL_Suits_blazers_.jpg"},
+{  "id":72,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":400,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/34a4b31d-65a2-4983-b664-6fcfcb258f461653643909758-QL_SportsShoes.jpg"},
+{  "id":73,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":990,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/25d91f26-c15a-4dfc-8f4c-147ab16729f51653643909647-QL_CasualShoes.jpg"},
+{  "id":74,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":290,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/d8d72379-2e75-46fc-89a7-650207320de21653643909731-QL_Sandals.jpg"},
+{  "id":75,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":399,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/2611e43c-d52d-4379-9c32-dde81894a6ff1653643909751-QL_Smartwatches.jpg"},
+{  "id":76,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":719,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/1f3a89f0-b2c6-4745-8ae6-59fbaf9d47261653643909641-QL_Belts_Wallets_.jpg"},
+{  "id":77,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":899,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/7d55f616-71ae-4842-94ca-06cf32b70c001653643909785-QL_TrolleyBags.jpg"},
+{  "id":78,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":999,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/e6ca1a65-1edf-410d-9fb8-5b582b1f9e9c1653643909697-QL_Kurtas_Sets.jpg"},
+{  "id":79,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":1299,
+      "description":"Mens Cloth by Shopify",
+  "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/7fe15202-bc12-4c0f-aec0-54de3f50197f1653643909724-QL_PlusSizeStyles.jpg"},
+{  "id":80,
+    "category":"men's clothing",
+     "title":"Mens Cloth",
+     "price":1399,
+      "description":"Mens Cloth by Shopify",
+      "image":"https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/553c298c-d770-4cf4-af86-9e5319fe045b1653643909691-QL_JeansMens.jpg"},
+
+      {
+        "id":81,
+        "category":"jewelery",
+        "title":"Hexagone Ring 6.6 mm",
+        "image":"https://i.etsystatic.com/8683545/r/il/1a15ef/1450799818/il_340x270.1450799818_mekq.jpg",
+        "price":6466,
+        "description":"Hexagon Ring 6mm Wide Band Honeycomb Band Men's Wedding Ring Genus Apis Beekeeper Ring 14K Gold Ring Men's Honey Ring Geometric Ring Men's"
+      },
+      {
+        "id":82,
+        "category":"jewelery",
+        "title":"Honeycomb Band",
+        "image":"https://i.etsystatic.com/8683545/r/il/f6fa2e/1588424422/il_340x270.1588424422_3vi9.jpg",
+        "price":7999,
+        "description":"Honeycomb Band Apis Sterling Silver Men's Band Hexagon Ring Cell Ring Honey Comb Ring Bee Ring Men's Wedding Band Silver 6mm Wide Band"
+      },
+      {
+        "id":83,
+        "category":"jewelery",
+        "title":"Minoan Malia Bees",
+        "image":"https://i.etsystatic.com/11661713/c/1047/831/431/1130/il/49b282/1559978072/il_340x270.1559978072_b9jd.jpg",
+        "price":876,
+        "description":"Minoan Malia Bees pendant Sterling Silver 925 Greek Jewelry from Greece Pendentif Argent Bijoux Grec Gioielli Greco argento Ketting SilberMinoan Malia Bees pendant Sterling Silver"
+      },
+      {
+        "id":84,
+        "category":"jewelery",
+        "title":"Honeycomb necklace",
+        "image":"https://i.etsystatic.com/24381857/r/il/880a6c/2506656337/il_340x270.2506656337_lojh.jpg",
+        "price":853,
+        "description":"Honeycomb necklace | cute gold jewelry, honeybee, unique,  gifts for her, 17.5 chainHoneycomb necklace | cute gold "
+      },
+      {
+        "id":85,
+        "category":"jewelery",
+        "title":"Sunflower Necklace",
+        "image":"https://i.etsystatic.com/11888485/r/il/7232cb/3023583709/il_340x270.3023583709_tpqy.jpg",
+        "price":576,
+        "description":"Sunflower Necklace with or without bee"
+      },
+      {
+        "id":86,
+        "category":"jewelery",
+        "title":"Queen Bee Necklace",
+        "image":"https://i.etsystatic.com/33140377/c/1000/794/500/465/il/9b342b/3970444407/il_340x270.3970444407_i26t.jpg",
+        "price":299,
+        "description":"18K Gold Filled Queen Bee Necklace Pendant, Bee Jewelry for Insect Lovers, Micropavé CZ Bee Charm, DIY Jewelry Making Supplies,11x15x2.5mm"
+      },
+      {
+        "id":87,
+        "category":"jewelery",
+        "title":"Couple Necklace",
+        "image":"https://i.etsystatic.com/27325021/c/2177/1730/279/549/il/55609a/4068607699/il_340x270.4068607699_omez.jpg",
+        "price":999,
+        "description":"Ying Yang Cats Couple Necklace, Personalized Name Necklace For Two, Couples' Name Necklace, Best Friend Necklace Set, Couples Necklace Set"
+      },
+      {
+        "id":88,
+        "category":"jewelery",
+        "title":"Garnet flower dangle",
+        "image":"https://i.etsystatic.com/18943614/r/il/16bcbe/2635971608/il_340x270.2635971608_qahf.jpg",
+        "price":799,
+        "description":"Garnet flower dangle earrings in 14k gold, red garnet flower drop earrings, January birthstone earrings, gift for mom, gift for her"
+      },
+      {
+        "id":89,
+        "category":"jewelery",
+        "title":"Big Snake Stud Earrings",
+        "image":"https://i.etsystatic.com/9778824/c/925/735/55/0/il/b698b2/3768795125/il_340x270.3768795125_5ix6.jpg",
+        "price":1299,
+        "description":"14k Solid Gold Big Snake Stud Earrings, Screwback Flatback Earrings, Lobe Tragus Flat Piercing, Fertility, Transformation, Healing Earring"
+      },
+      {
+        "id":90,
+        "category":"jewelery",
+        "title":"QUARTZITE & SAPPHIRE Gemstone",
+        "image":"https://i.etsystatic.com/9454957/c/2000/1589/0/170/il/a820e4/3887825573/il_340x270.3887825573_7t0c.jpg",
+        "price":1399,
+        "description":"QUARTZITE & SAPPHIRE Gemstone Earring : 8.80gms Natural Quartzite 925 Sterling Silver Drop Dangle Bezel Set Hook Earrings 2.35"
+      }
+      ],
        "cart":[]
 }
